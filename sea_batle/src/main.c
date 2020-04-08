@@ -64,7 +64,7 @@ int     main()
 
     eMapInfo pl_1[110] = {EMPTY};
     eMapInfo pl_2[110] = {EMPTY};
-    int ch;
+    char ch;
 
 
     while (is_run)
